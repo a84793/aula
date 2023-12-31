@@ -1,4 +1,6 @@
-# Guia de Serviços da Oficina
+# intro
+
+## Guia de Serviços da Oficina
 Aqui apresentam-se um resumo dos preços e dos serviços que a nossa oficina oferece.
 
 
@@ -16,7 +18,7 @@ resumo de preços :
 - A nossa oficina presta uma variedade de serviços para garantir o funcionamento e a segurança dos veículos.
 - Esses serviços incluem manutenção preventiva, reparos mecânicos, serviços de pneus, entre outros.
 ## Tipos de Serviços Oferecidos
-As oficinas mecânicas oferecem uma ampla gama de serviços, como:
+As oficinas oferecem uma ampla gama de serviços, como:
 
 - Manutenção Preventiva: Trocas de óleo, inspeções regulares, substituição de peças desgastadas, etc.
 
