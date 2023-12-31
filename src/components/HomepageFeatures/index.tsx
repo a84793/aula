@@ -10,11 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'A Melhor mecânica',
+    title: 'O melhor mecanici da região',
     Svg: require('@site/static/img/car.svg').default,
     description: (
       <>
-        Somos a melhor oficina da regiao.
+        Somos a melhor mecanica da regiao, somos bons demais.
       </>
     ),
   },
@@ -23,16 +23,16 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/time.svg').default,
     description: (
       <>
-        Vamos Entregar seu veiculo nas melhores condições possiveis.
+        Vamos Entregar seu veiculo em otimas condiçoes em tempo record
       </>
     ),
   },
   {
-    title: 'Melhor localizacõo',
+    title: 'Bem localizado',
     Svg: require('@site/static/img/location.svg').default,
     description: (
       <>
-        Estamos bem localizados, Rua Mnuel Cbrita Teodosio 8135-155.
+        Estamos bem localizados, Rua do aportel n 2313.
       </>
     ),
   },
