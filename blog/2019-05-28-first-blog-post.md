@@ -2,7 +2,7 @@
 slug: documentacao-clientes
 title: Clientes
 authors:
-  - name: Gao Wei
+  - name: Nuno Saude
     title: Docusaurus Core Team
     url: https://github.com/wgao19
     image_url: https://github.com/wgao19.png
