@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>oficina esteves Blog</title>
-        <link>https://github.com/docossaurus/blog</link>
+        <link>https://github.com/docossaurus_oficina_esteves/blog</link>
         <description>oficina esteves Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>pt</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://github.com/docossaurus/blog/welcome</link>
-            <guid>https://github.com/docossaurus/blog/welcome</guid>
+            <link>https://github.com/docossaurus_oficina_esteves/blog/welcome</link>
+            <guid>https://github.com/docossaurus_oficina_esteves/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.]]></description>
             <content:encoded><![CDATA[<p>#Nossa mecânica possui um sistema integrado único, que facilita e automatiza toda a linha de trabalho interna e o atendimento ao cliente!
@@ -25,35 +25,33 @@ Agradecemos a sua atenção e curiosidade!!</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Terminal]]></title>
-            <link>https://github.com/docossaurus/blog/documentacao-terminal</link>
-            <guid>https://github.com/docossaurus/blog/documentacao-terminal</guid>
+            <link>https://github.com/docossaurus_oficina_esteves/blog/documentacao-terminal</link>
+            <guid>https://github.com/docossaurus_oficina_esteves/blog/documentacao-terminal</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Sistema para imprimir as informações do sistema interno na forma de uma tabela com um cabeçalho]]></description>
             <content:encoded><![CDATA[<p>Sistema para imprimir as informações do sistema interno na forma de uma tabela com um cabeçalho</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Clientes]]></title>
-            <link>https://github.com/docossaurus/blog/documentacao-clientes</link>
-            <guid>https://github.com/docossaurus/blog/documentacao-clientes</guid>
+            <link>https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes</link>
+            <guid>https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Veículos]]></description>
-            <content:encoded><![CDATA[<p>Veículos
-Criação de Veículo
-Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Criação de Cadastro
+Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
         <item>
             <title><![CDATA[Clientes]]></title>
-            <link>https://github.com/docossaurus/blog/documentacao-clientes</link>
-            <guid>https://github.com/docossaurus/blog/documentacao-clientes</guid>
+            <link>https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes</link>
+            <guid>https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Criação de Cadastro]]></description>
-            <content:encoded><![CDATA[<p>Veículos
-Criação de Veículo
-Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Criação de Cadastro
+Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
