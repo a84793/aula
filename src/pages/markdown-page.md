@@ -3,5 +3,10 @@ title: Markdown page example
 ---
 
 # Markdown page example
+ 
+ teste de tabelas :
 
-You don't need React to write simple standalone pages.
+ |categoria  |Preços   |
+ |-----------|---------|
+ |serviço 1  |700€     |
+ |serviço 2  |500€     |
