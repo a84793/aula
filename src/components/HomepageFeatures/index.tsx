@@ -10,11 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'O melhor mecanici da região',
+    title: 'a melhor oficina da região',
     Svg: require('@site/static/img/car.svg').default,
     description: (
       <>
-        Somos a melhor mecanica da regiao, somos bons demais.
+        Somos a melhor oficina do algarve, conte conosco para resolver todos os seus problemas.
       </>
     ),
   },
@@ -23,16 +23,16 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/time.svg').default,
     description: (
       <>
-        Vamos Entregar seu veiculo em otimas condiçoes em tempo record
+        entregamos o seu veiculo nas melhores condições possiveis
       </>
     ),
   },
   {
-    title: 'Bem localizado',
+    title: 'Boa localizado',
     Svg: require('@site/static/img/location.svg').default,
     description: (
       <>
-        Estamos bem localizados, Rua do aportel n 2313.
+        Estamos localizados na Rua Manuel Cabrita Teodosio 8135-155.
       </>
     ),
   },
