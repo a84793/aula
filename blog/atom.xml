@@ -13,11 +13,8 @@
         <link href="https://github.com/docossaurus/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.]]></summary>
-        <content type="html"><![CDATA[<p>#Nossa mecânica possui um sistema integrado único, que facilita e automatiza toda a linha de trabalho interna e o atendimento ao cliente!
-Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.</p><p>###Continue sua leitura para:
--Conhecer melhor e especificamente cada módulo do sistema.
--Aprender a metodologia de trabalho de cada módulo do sistema.
-Agradecemos a sua atenção e curiosidade!!</p>]]></content>
+        <content type="html"><![CDATA[<p>Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="continue-sua-leitura-para">Continue sua leitura para:<a href="#continue-sua-leitura-para" class="hash-link" aria-label="Link direto para Continue sua leitura para:" title="Link direto para Continue sua leitura para:">​</a></h3><ul><li>Conhecer melhor e especificamente cada módulo do sistema.</li><li>Aprender a metodologia de trabalho de cada módulo do sistema.
+Agradecemos a sua atenção e curiosidade!!</li></ul>]]></content>
         <author>
             <name>Sébastien Lorber</name>
             <uri>https://sebastienlorber.com</uri>
@@ -44,9 +41,10 @@ Agradecemos a sua atenção e curiosidade!!</p>]]></content>
         <link href="https://github.com/docossaurus/blog/documentacao-clientes"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Veículos]]></summary>
-        <content type="html"><![CDATA[<p>Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content>
+        <content type="html"><![CDATA[<p>Veículos
+Criação de Veículo
+Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content>
         <author>
             <name>Nuno Saude</name>
             <uri>https://github.com/wgao19</uri>
@@ -60,9 +58,10 @@ Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de
         <link href="https://github.com/docossaurus/blog/documentacao-clientes"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Criação de Cadastro]]></summary>
-        <content type="html"><![CDATA[<p>Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content>
+        <content type="html"><![CDATA[<p>Veículos
+Criação de Veículo
+Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content>
         <author>
             <name>Nuno Saude</name>
             <uri>https://github.com/wgao19</uri>

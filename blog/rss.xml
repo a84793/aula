@@ -14,11 +14,8 @@
             <guid>https://github.com/docossaurus/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.]]></description>
-            <content:encoded><![CDATA[<p>#Nossa mecânica possui um sistema integrado único, que facilita e automatiza toda a linha de trabalho interna e o atendimento ao cliente!
-Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.</p><p>###Continue sua leitura para:
--Conhecer melhor e especificamente cada módulo do sistema.
--Aprender a metodologia de trabalho de cada módulo do sistema.
-Agradecemos a sua atenção e curiosidade!!</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="continue-sua-leitura-para">Continue sua leitura para:<a href="#continue-sua-leitura-para" class="hash-link" aria-label="Link direto para Continue sua leitura para:" title="Link direto para Continue sua leitura para:">​</a></h3><ul><li>Conhecer melhor e especificamente cada módulo do sistema.</li><li>Aprender a metodologia de trabalho de cada módulo do sistema.
+Agradecemos a sua atenção e curiosidade!!</li></ul>]]></content:encoded>
             <category>facebook</category>
             <category>hello</category>
             <category>docusaurus</category>
@@ -37,9 +34,10 @@ Agradecemos a sua atenção e curiosidade!!</p>]]></content:encoded>
             <guid>https://github.com/docossaurus/blog/documentacao-clientes</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Veículos]]></description>
-            <content:encoded><![CDATA[<p>Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Veículos
+Criação de Veículo
+Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
@@ -49,9 +47,10 @@ Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de
             <guid>https://github.com/docossaurus/blog/documentacao-clientes</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Criação de Cadastro]]></description>
-            <content:encoded><![CDATA[<p>Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Veículos
+Criação de Veículo
+Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
