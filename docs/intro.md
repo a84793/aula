@@ -20,10 +20,15 @@ Adquira conhecimento sobre os diversos serviços automotivos oferecidos por uma 
 As oficinas mecânicas oferecem uma ampla gama de serviços, como:
 
 -Manutenção Preventiva: Trocas de óleo, inspeções regulares, substituição de peças desgastadas, etc.
+
 -Reparos Mecânicos: Reparos no motor, freios, suspensão, transmissão, direção, entre outros.
+
 -Serviços de Pneus: Alinhamento, balanceamento, troca e conserto de pneus.
+
 -Serviços Elétricos e Eletrônicos: Diagnósticos e reparos em sistemas elétricos, iluminação, bateria, entre outros.
+
 -Serviços de Funilaria e Pintura: Reparos estéticos, remoção de arranhões, pintura e restauração da carroceria.
+
 
 É fundamental garantir que seu veículo receba serviços de alta qualidade para garantir segurança e desempenho. Por isso:
 
