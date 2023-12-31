@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Boa localizado',
-    Svg: require('@site/static/img/location.svg').default,
+    Svg: require('@site/static/img/icon-local.svg').default,
     description: (
       <>
         Estamos localizados na Rua Manuel Cabrita Teodosio 8135-155.
