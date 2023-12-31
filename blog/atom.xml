@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/docossaurus_oficina_esteves/blog</id>
+    <id>https://github.com/docossaurus/blog</id>
     <title>oficina esteves Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/docossaurus_oficina_esteves/blog"/>
+    <link rel="alternate" href="https://github.com/docossaurus/blog"/>
     <subtitle>oficina esteves Blog</subtitle>
-    <icon>https://github.com/docossaurus_oficina_esteves/img/favicon.ico</icon>
+    <icon>https://github.com/docossaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://github.com/docossaurus_oficina_esteves/blog/welcome</id>
-        <link href="https://github.com/docossaurus_oficina_esteves/blog/welcome"/>
+        <id>https://github.com/docossaurus/blog/welcome</id>
+        <link href="https://github.com/docossaurus/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Suas funcionalidades abragem a criação de cadastro de clientes, veículos e impressão dos dados de uma forma amigável e de fácil entendimento diretamente no terminal.]]></summary>
         <content type="html"><![CDATA[<p>#Nossa mecânica possui um sistema integrado único, que facilita e automatiza toda a linha de trabalho interna e o atendimento ao cliente!
@@ -32,21 +32,22 @@ Agradecemos a sua atenção e curiosidade!!</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terminal]]></title>
-        <id>https://github.com/docossaurus_oficina_esteves/blog/documentacao-terminal</id>
-        <link href="https://github.com/docossaurus_oficina_esteves/blog/documentacao-terminal"/>
+        <id>https://github.com/docossaurus/blog/documentacao-terminal</id>
+        <link href="https://github.com/docossaurus/blog/documentacao-terminal"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sistema para imprimir as informações do sistema interno na forma de uma tabela com um cabeçalho]]></summary>
         <content type="html"><![CDATA[<p>Sistema para imprimir as informações do sistema interno na forma de uma tabela com um cabeçalho</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Clientes]]></title>
-        <id>https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes</id>
-        <link href="https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes"/>
+        <id>https://github.com/docossaurus/blog/documentacao-clientes</id>
+        <link href="https://github.com/docossaurus/blog/documentacao-clientes"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Veículos]]></summary>
-        <content type="html"><![CDATA[<p>Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content>
+        <content type="html"><![CDATA[<p>Veículos
+Criação de Veículo
+Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content>
         <author>
             <name>Nuno Saude</name>
             <uri>https://github.com/wgao19</uri>
@@ -56,13 +57,14 @@ Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de
     </entry>
     <entry>
         <title type="html"><![CDATA[Clientes]]></title>
-        <id>https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes</id>
-        <link href="https://github.com/docossaurus_oficina_esteves/blog/documentacao-clientes"/>
+        <id>https://github.com/docossaurus/blog/documentacao-clientes</id>
+        <link href="https://github.com/docossaurus/blog/documentacao-clientes"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Criação de Cadastro]]></summary>
-        <content type="html"><![CDATA[<p>Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.</p><p>Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s</p>]]></content>
+        <content type="html"><![CDATA[<p>Veículos
+Criação de Veículo
+Armazenamos os dados úteis para nosso trabalho de seu veículo, para que este seja localizado com mais praticidade e envolvimento!</p><p>Retorno de Informações
+Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados do seu veículo cadastrados na base de dados, para assim compreendermos melhor suas necessidades.</p>]]></content>
         <author>
             <name>Nuno Saude</name>
             <uri>https://github.com/wgao19</uri>
