@@ -1,4 +1,8 @@
- pequeno resumo de preços :
+# Guia de Serviços da Oficina Mecânica
+Aqui apresentam-se um resumo dos preços e dos serviços que a nossa oficina oferece.
+
+
+resumo de preços :
 
  |categoria       |Preços   |
  |----------------|---------|
@@ -7,27 +11,20 @@
  |troca de peças  |650€     |
  |pintura         |250€     |
 
-# Guia de Serviços da Oficina Mecânica
-Vamos explorar informações sobre serviços oferecidos por uma oficina mecânica.
-
-## Introdução aos Serviços Automotivos
-Adquira conhecimento sobre os diversos serviços automotivos oferecidos por uma oficina mecânica e como eles podem manter seu veículo em ótimas condições de funcionamento.
 
 ### O que você precisa saber
-- As oficinas mecânicas prestam uma variedade de serviços para garantir o funcionamento e a segurança dos veículos.
--Esses serviços incluem manutenção preventiva, reparos mecânicos, serviços de pneus, elétricos, funilaria, entre outros.
+- A nossa oficina presta uma variedade de serviços para garantir o funcionamento e a segurança dos veículos.
+- Esses serviços incluem manutenção preventiva, reparos mecânicos, serviços de pneus, entre outros.
 ## Tipos de Serviços Oferecidos
 As oficinas mecânicas oferecem uma ampla gama de serviços, como:
 
 - Manutenção Preventiva: Trocas de óleo, inspeções regulares, substituição de peças desgastadas, etc.
 
-- Reparos Mecânicos: Reparos no motor, freios, suspensão, transmissão, direção, entre outros.
-
-- Serviços de Pneus: Alinhamento, balanceamento, troca e conserto de pneus.
+- Reparos Mecânicos: Reparos no motor, travões, suspensão, transmissão, direção, entre outros.
 
 - Serviços Elétricos e Eletrônicos: Diagnósticos e reparos em sistemas elétricos, iluminação, bateria, entre outros.
 
-- Serviços de Funilaria e Pintura: Reparos estéticos, remoção de arranhões, pintura e restauração da carroceria.
+- Serviços de Pintura: Reparos estéticos, remoção de arranhões, pintura e restauração da carroceria.
 
 
 É fundamental garantir que seu veículo receba serviços de alta qualidade para garantir segurança e desempenho. Por isso:
@@ -38,4 +35,7 @@ As oficinas mecânicas oferecem uma ampla gama de serviços, como:
 
 Lembre-se, a manutenção adequada prolonga a vida útil do seu veículo e garante a segurança nas estradas.
 
-Para mais informações detalhadas sobre cada serviço automotivo, consulte um profissional especializado ou entre em contato conosco para agendar um serviço ou obter informações adicionais.
+Para mais informações detalhadas sobre cada serviço, entreem contacto através:
+
+- telf:289393727
+- oficina.esteves@gmail.com 
