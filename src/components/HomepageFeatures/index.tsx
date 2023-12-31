@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Boa localizado',
+    title: 'Boa localização',
     Svg: require('@site/static/img/icon-local-2.svg').default,
     description: (
       <>
