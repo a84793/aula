@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'a melhor oficina da região',
-    Svg: require('@site/static/img/car.svg').default,
+    Svg: require('@site/static/img/icon-site.svg').default,
     description: (
       <>
         Somos a melhor oficina do algarve, conte conosco para resolver todos os seus problemas.
