@@ -1,7 +1,11 @@
-|sidebar_position|
-|----------------|
-|1               |
+ pequeno resumo de preços :
 
+ |categoria       |Preços   |
+ |----------------|---------|
+ |mudança de pneus|700€     |
+ |Troca de oleos  |500€     |
+ |troca de peças  |650€     |
+ |pintura         |250€     |
 
 #Guia de Serviços da Oficina Mecânica
 Vamos explorar informações sobre serviços oferecidos por uma oficina mecânica.
@@ -21,7 +25,6 @@ As oficinas mecânicas oferecem uma ampla gama de serviços, como:
 -Serviços Elétricos e Eletrônicos: Diagnósticos e reparos em sistemas elétricos, iluminação, bateria, entre outros.
 -Serviços de Funilaria e Pintura: Reparos estéticos, remoção de arranhões, pintura e restauração da carroceria.
 
-##Priorizando a Segurança e Qualidade
 É fundamental garantir que seu veículo receba serviços de alta qualidade para garantir segurança e desempenho. Por isso:
 
 -Escolha oficinas confiáveis e com profissionais qualificados.
