@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Manutenção Rapida',
-    Svg: require('@site/static/img/time.svg').default, 
+    Svg: require('@site/static/img/Logo-manutenção.svg').default, 
     description: (
       <>
         entregamos o seu veiculo nas melhores condições possiveis
