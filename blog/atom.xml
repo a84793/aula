@@ -41,8 +41,9 @@ Agradecemos a sua atenção e curiosidade!!</li></ul>]]></content>
         <link href="https://github.com/docossaurus/blog/documentacao-clientes"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Andava com graves problemas no carro portanto decidi entrat em contacto e experimentar esta oficina que se encotra perto da minha casa.]]></summary>
-        <content type="html"><![CDATA[<p>Andava com graves problemas no carro portanto decidi entrat em contacto e experimentar esta oficina que se encotra perto da minha casa.
-Encontro me bastante satisfeita e feliz por afirmar que este serviço é bastante rápido e teve resultados excelentes a meu ver.</p>]]></content>
+        <content type="html"><![CDATA[<p>Criação de Cadastro:
+Criamos na nossa base de dados um cadastro completo com os seus dados, para que forneça uma vez todas as suas informações e possa usar sempre o nosso istema com máxima utilidade.</p><p>Retorno das Informações:
+Um mecanisma interno que retorna a nós de maneira ágil e útil, todos os dados dos nossos clientes alistados na base de dados.</p>]]></content>
         <author>
             <name>Diogo Domingues</name>
             <uri>https://github.com/wgao19</uri>
@@ -51,13 +52,14 @@ Encontro me bastante satisfeita e feliz por afirmar que este serviço é bastant
         <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clientes]]></title>
+        <title type="html"><![CDATA[Administrador]]></title>
         <id>https://github.com/docossaurus/blog/documentacao-clientes</id>
         <link href="https://github.com/docossaurus/blog/documentacao-clientes"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Criação de Cadastro]]></summary>
-        <content type="html"><![CDATA[<p>Andava com graves problemas no carro portanto decidi entrat em contacto e experimentar esta oficina que se encotra perto da minha casa.
-Encontro me bastante satisfeita e feliz por afirmar que este serviço é bastante rápido e teve resultados excelentes a meu ver.</p>]]></content>
+        <summary type="html"><![CDATA[Criação de Cadastro:]]></summary>
+        <content type="html"><![CDATA[<p>Criação de Cadastro:
+Criamos na nossa base de dados um cadastro completo com os seus dados, para que forneça uma vez todas as suas informações e possa usar sempre o nosso istema com máxima utilidade.</p><p>Retorno das Informações:
+Um mecanisma interno que retorna a nós de maneira ágil e útil, todos os dados dos nossos clientes alistados na base de dados.</p>]]></content>
         <author>
             <name>Nuno Saude</name>
             <uri>https://github.com/wgao19</uri>
