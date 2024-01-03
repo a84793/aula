@@ -1,7 +1,7 @@
 # intro
 
 ## Guia de Serviços da Oficina
-Aqui apresentam-se um resumo dos preços e dos serviços que a nossa oficina oferece.
+Aqui apresentam-se um resumo dos preços e dos serviços que a nossa oficina oferece. olá olá
 
 
 resumo de preços :
