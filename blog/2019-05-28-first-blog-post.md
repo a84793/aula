@@ -1,16 +1,16 @@
 ---
 slug: documentacao-clientes
-title: Clientes
+title: Administrador
 authors:
-  - name: Nuno Saude
-    title: Docusaurus Core Team
+  - name: Nuno Saude 
+    title: Concelhos de criação de cadastro
     url: https://github.com/wgao19
     image_url: https://github.com/wgao19.png
 tags: [hola, docusaurus]
 ---
 
-Criação de Cadastro
-Criamos em nossa base de dados um cadastro completo seu, para que forneça uma vez suas informações e possa usar sempre o nosso sistema com máxima praticidade.
+Criação de Cadastro:
+Criamos na nossa base de dados um cadastro completo com os seus dados, para que forneça uma vez todas as suas informações e possa usar sempre o nosso istema com máxima utilidade.
 
-Retorno de Informações
-Uma funcionalidade interna que nos retorna de maneira ágil e útil, os dados de nossos clientes cadastrados na base de dados.s
+Retorno das Informações:
+Um mecanisma interno que retorna a nós de maneira ágil e útil, todos os dados dos nossos clientes alistados na base de dados.
